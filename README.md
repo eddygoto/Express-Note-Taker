@@ -47,6 +47,10 @@ to be able to run the page on your localhost. From there, notes can be created a
 ![Screenshot](./Screen%20Shot%202023-03-21%20at%2010.48.12%20PM.png)
 ![Screenshot](./Screen%20Shot%202023-03-21%20at%2010.47.12%20PM.png)
 
+## Future Development
+
+Hope to add DELETE function in the future. I was unable to implement the delete function code that was from the Mini Project in the Express folder.
+
 ## Credits
 
 Express Mini Project
